@@ -1,5 +1,5 @@
 # cf-calc simple project
-<h3>Made in Malaysia boh</h3>
+<h3>Made in Malaysia 🇲🇾</h3>
 Convert celcius and fahrenheit (PYTHON)
 
 make an exercise
