@@ -8,15 +8,15 @@ make an exercise
 - Download source code or clone repository
 - Click 'Code' green button and download zip file
 - or clone repository
-```shell
+```bash
 git clone https://github.com/mika259/cf-calc
 ```
 - Open folder
-```shell
+```bash
 cd cf-calc
 ```
 - Run tool via command
-```shell
+```bash
 python3 cf.py
 ```
 - or just drag a file in command prompt and it will be running on cmd.
