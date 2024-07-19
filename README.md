@@ -22,4 +22,4 @@ python3 cf.py
 - or just drag a file in command prompt and it will be running on cmd.
 
 # Screenshot
-<img src="screenshot.png">
+<img src="screenshot.jpg">
