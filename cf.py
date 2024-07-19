@@ -30,14 +30,14 @@ while True:
         # kalau pilih 1
         if choose == '1':
             process("Calculate")
-            celcius = float(input("C° :"));wait(2)
+            celcius = float(input("C° :"));wait(1.3)
             print("C° > F°: {:.2f}".format(c_f(celcius)))
             endline(15)
 
         # kalau pilih 2
         elif choose == '2':
             process("Calculate")
-            fahrenheit = float(input("F° :"));wait(2)
+            fahrenheit = float(input("F° :"));wait(1.3)
             print("F° > C°:",round(f_c(fahrenheit)))
             endline(15)
 
