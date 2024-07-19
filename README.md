@@ -23,3 +23,10 @@ python3 cf.py
 
 # Screenshot
 <img src="screenshot.jpg">
+
+# Info
+
+- C°>F°(1) = Celcius to Fahrenheit
+- F°>C°(2) = Fahrenheit to Celcius
+- Info(i)  = Tool information
+- Exit(e)  = Exit tool
